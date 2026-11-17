@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker & OS
+.DS_Store
+Thumbs.db
+
+# AI & Project Specific (جلوگیری از آپلود فایل‌های حجیم و موقت)
+runs/
+*.pt
+best.pt
+last.pt
+test_image.jpg
